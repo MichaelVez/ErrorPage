@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: "Gorditas", cursive;
+  font-family: "Raleway", sans-serif;
+  color: #3d464d;
+}
+img {
+  display: block;
+  margin: 40px auto;
+}
+h1 {
+  font-size: 38px;
+  margin: 30px;
+  font-weight: 100;
+}
+#text1 {
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+#text2 {
+  margin-bottom: 20px;
+}
+li {
+  margin: 10px;
+}
+a {
+  color: #005ff8;
+  text-decoration: none;
+}
